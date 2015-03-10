@@ -1,4 +1,4 @@
-FROM emptyscope/rbenv
+FROM bradallen/rbenv
 MAINTAINER Brad Allen <brad@emptyscope.com>
 
 USER ruby
